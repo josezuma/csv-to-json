@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is csv-to-json?
-A CLI tool for csv to json.
+Csv To Json
 
 ## Dependencies?
 Python stdlib only.
